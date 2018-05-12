@@ -20,7 +20,7 @@ Pythonのバージョンは、< 3.5を推奨。
 
   `python -m  pip install --upgrade pip wheel setuptools`
 
-kivyのインストールには、Cythonが必要とのことなので、インストールする。
+Kivyのインストールには、Cythonが必要とのことなので、インストールする。
 
 - Cythonのインストール
 
@@ -28,13 +28,13 @@ kivyのインストールには、Cythonが必要とのことなので、イン�
 
 後は、[公式の説明](https://kivy.org/docs/installation/installation-windows.html)に従って、下記の通りに必要なパッケージをインストールする。
 
-- kivyのインストール
+- Kivyのインストール
 
   `pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew`
 
   `pip install kivy`
 
-後は、Pythonを起動して、kivyがインポートできるかを確認。
+後は、Pythonを起動して、Kivyがインポートできるかを確認。
 
 - 動作確認
 
@@ -58,7 +58,7 @@ Cythonのインストールまでは、Windowsと一緒。なぜか、バージ�
 
 PyPIからインストールすると、なぜかエラーを吐く。
 
-- kivyのインストール
+- Kivyのインストール(Mac)
 
   `USE_OSX_FRAMEWORKS=0 pip install git+https://github.com/kivy/kivy.git`
 
@@ -84,7 +84,7 @@ if __name__ == '__main__':
     HelloApp().run()
 ```
 
-## kivyチュートリアル
+## Kivyチュートリアル
 
 公式サイトで解説されてる通りに、コードを作成した。
 
