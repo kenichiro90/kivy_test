@@ -95,7 +95,7 @@ srcを参照のこと。
 
   Kivy用Hello World
 
-- pong.py
+- pong.py, pong.kv
 
   Pong Game Tutorial
 
