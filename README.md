@@ -95,7 +95,7 @@ if __name__ == '__main__':
 
 srcを参照のこと。
 
-### コード一覧
+## コード一覧
 - hello.py
 
   Kivy用Hello World
