@@ -86,14 +86,14 @@ if __name__ == '__main__':
 
 ## Kivyチュートリアル
 
-公式サイトで解説されてる通りに、コードを作成した。
+[公式サイト](https://kivy.org/docs/tutorials/pong.html#)で解説されてる通りに、コードを作成した。
 
 srcを参照のこと。
 
 ### コード一覧
 - hello.py
 
-  kivy用Hello World
+  Kivy用Hello World
 
 - pong.py
 
