@@ -1,4 +1,5 @@
-# kivy_test
-This is a tutorial of kivy.
+# Kivy　インストールからチュートリアルまで
 
-## 日本語を表示。
+## Kivyのインストール(Windows)
+
+とりあえず、pipのアップデートをする。
