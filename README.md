@@ -28,7 +28,7 @@ Kivyのインストールには、Cythonが必要とのことなので、イン�
 
   `pip install Cython`
 
-後は、[公式の説明](https://kivy.org/docs/installation/installation-windows.html)に従って、下記の通りに必要なパッケージをインストールする。
+あとは、[公式の説明](https://kivy.org/docs/installation/installation-windows.html)に従って、下記の通りに必要なパッケージをインストールする。
 
 - Kivyのインストール
 
@@ -36,7 +36,7 @@ Kivyのインストールには、Cythonが必要とのことなので、イン�
 
   `pip install kivy`
 
-後は、Pythonを起動して、Kivyがインポートできるかを確認。
+Pythonを起動して、Kivyがインポートできるかを確認。
 
 - 動作確認
 
@@ -64,7 +64,7 @@ PyPIからインストールすると、なぜかエラーを吐く。
 
   `USE_OSX_FRAMEWORKS=0 pip install git+https://github.com/kivy/kivy.git`
 
-こうやってインストールすると、cloneする必要がないとのこと。
+こうやってインストールすると、git cloneする必要がないとのこと。
 
 インストール後は、Windowsと同じようにインポートできるかを確認。
 
