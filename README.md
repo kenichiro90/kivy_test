@@ -40,7 +40,10 @@ Pythonを起動して、Kivyがインポートできるかを確認。
 
 - 動作確認
 
-  `import kivy`で、エラーが出なければ、OK。
+  ```python
+  import kivy
+  ```
+  で、エラーが出なければ、OK。
 
 ## Kivyのインストール(Mac)
 
